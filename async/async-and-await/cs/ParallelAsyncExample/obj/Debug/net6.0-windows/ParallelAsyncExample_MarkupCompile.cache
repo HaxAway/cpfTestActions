@@ -4,12 +4,12 @@
 winexe
 C#
 .cs
-c:\Projects\CPF\cpfTestActions\samples-main\async\async-and-await\cs\ParallelAsyncExample\obj\Debug\net6.0-windows\
+c:\Projects\CPF\cpfTestActions\async\async-and-await\cs\ParallelAsyncExample\obj\Debug\net6.0-windows\
 ParallelAsyncExample
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-c:\Projects\CPF\cpfTestActions\samples-main\async\async-and-await\cs\ParallelAsyncExample\App.xaml
+c:\Projects\CPF\cpfTestActions\async\async-and-await\cs\ParallelAsyncExample\App.xaml
 11407045341
 
 42083578888

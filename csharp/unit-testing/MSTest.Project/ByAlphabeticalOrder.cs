@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
+// CPF Added comment.
 namespace MSTest.Project
 {
     [TestClass]
